@@ -51,30 +51,16 @@ seaborn
 ```
 
 ## Sample Visualizations
-## Sample Visualizations
 
 ### Yearly Global Sales Trend
-![Yearly Global Sales](images/A line plot showing yearly global sales trends..png)
+![Yearly Global Sales](yearly_global_sales.png)
 
 ### Global Sales by Genre
-![Sales by Genre](images/A bar chart showing global sales by genre.png)
+![Sales by Genre](sales_by_genre.png)
 
 ### Global Sales by Platform
-![Sales by Platform](images/A bar chart showing global sales by platform.png)
+![Sales by Platform](sales_by_platform.png)
 
-Below are examples of the charts generated in this analysis:
-
-### Top 10 Best-Selling Games
-![Top 10 Games](images/top10_games.png)
-
-### Sales by Genre
-![Sales by Genre](images/sales_by_genre.png)
-
-### Sales by Platform
-![Sales by Platform](images/sales_by_platform.png)
-
-### Global Sales Over the Years
-![Sales Over Years](images/sales_over_years.png)
 
 ## Author
 Fadiah Suleiman Alanzi
