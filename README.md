@@ -63,5 +63,5 @@ seaborn
 
 
 ## Author
-Fadiah Suleiman Alanzi
+Fadiyah Sulaiman Alanzi
 Data Science Graduate
